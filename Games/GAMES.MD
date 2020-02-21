@@ -4,7 +4,7 @@
 
 A list of games completed as I read the book 'Land of Lisp'.
 
-### Games List
+## Games List
 
 #### GuessMyNumber
 
